@@ -1,2 +1,5 @@
 // declare your functions here...
-$("p")
+function parahraphSelectors {
+  $("p");
+}
+
